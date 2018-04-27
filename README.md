@@ -7,5 +7,5 @@ Example usage:
 from DocumentTermMatrix import *
 
 dtm = DocumentTermMatrix()
-dtm.read_document('file')
+dtm.read_document('./file')
 ```
